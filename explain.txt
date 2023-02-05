@@ -1,0 +1,3 @@
+async javascript and xml
+ xhr => xml http request 
+ fetch API (promise base API)
